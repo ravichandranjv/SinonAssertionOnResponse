@@ -1,4 +1,3 @@
-﻿var assert=require('assert');
 var request = require('supertest');
 var sinon     = require('sinon');
 var spy=sinon.spy();
